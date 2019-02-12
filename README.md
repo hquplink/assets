@@ -9,4 +9,4 @@ _Star Wars, Star Wars: Legion and all related properties and text are owned by F
 - `dice`: Various dice icons for representing the game.
   - `attack/`: Sides and types of attack dice (hit, crit, surge).
   - `defense/`: Sides and types of defense dice (block, surge).
-  - `sides.psd`: Raw assets for `attack/` and `defense`/.
+  - `sides.psd`: Raw assets for `attack/` and `defense/`.
